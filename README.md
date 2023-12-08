@@ -1,6 +1,8 @@
 # Cross-Sum-News-Aligned
 Continually updated repository housing cross lingual and mono lingual summarization data for different language pairs.
 
+## Updates
+* Added English-English v0.1.
 
 ## Language Pairs Available:
 * English - English
@@ -15,3 +17,5 @@ Continually updated repository housing cross lingual and mono lingual summarizat
 
 ## References
 * TBD
+
+P.S.: More language pairs will be added soon.
